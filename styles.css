@@ -1,0 +1,14 @@
+.container {
+    background-color: white;
+    display: flex;
+    width: 600px;
+    height: 600px;
+  
+
+    flex-direction: column;
+    border-style: solid;
+}
+
+.button {
+   color: aqua;
+}
